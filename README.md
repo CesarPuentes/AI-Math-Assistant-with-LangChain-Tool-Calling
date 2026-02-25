@@ -4,6 +4,8 @@ This project is an AI-powered mathematical assistant that runs 100% locally usin
 
 Unlike a standard chatbot that guesses mathematical answers, this assistant uses **Tool Calling**: it identifies the problem and uses Python code tools (a calculator) to obtain precise answers, eliminating numerical hallucinations.
 
+Course link: https://cognitiveclass.ai/courses/how-to-build-ai-math-assistant-with-langchain-tool-calling
+
 ## 🚀 Prerequisites
 
 1.  **Python 3.10+** installed.
